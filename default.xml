@@ -11,7 +11,7 @@
   <remote name="github" fetch="https://github.com"/>
   <remote name="lineage" fetch="https://github.com/LineageOS" revision="lineage-21.0"/>
   <remote name="lineage-gitlab" fetch="https://gitlab.com/LineageOS"/>
-  <remote name="lmodroid" fetch="https://git.libremobileos.com" review="gerrit.libremobileos.com" revision="fourteen"/>
+  <remote name="lmodroid" fetch="https://github.com" review="gerrit.libremobileos.com" revision="fourteen"/>
   
   <default remote="aosp" revision="refs/tags/android-14.0.0_r35" sync-j="4" sync-c="true"/>
   
